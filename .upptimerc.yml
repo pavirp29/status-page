@@ -4,8 +4,8 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: amms
+    url: https://amms2020.ml
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
